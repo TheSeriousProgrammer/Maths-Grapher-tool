@@ -1,4 +1,5 @@
-# Grapher-Overloaded
+# Maths-Grapher-tool
+
 This project is build to plot graphs of mathematical functions
 
 please note that you need numpy and matplotlib installed in your computer before executing the codes...
