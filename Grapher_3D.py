@@ -5,16 +5,17 @@ func=str(input("f(x,y)="))
 #+++++++++++++++++++++++++++Human understandable to python understandable convertion part+++++++++++++++++++++++++++++++++++++++
 
 if '^' in func :#this part is to create powers
-            for i in range(len(func)):
+            i=0
+            while i<(len(func)):
                 if func[i]=="^" :
                     func=func[:i]+'**'+func[i+1:]
-             i+=1
+                i+=1
 
                         
 i=0
 while i<(len(func)):#This part is to  eg: covert 2y to 2*y
     if i != len(func)-1 :#Just to avoid index error in case of last element being a number
-        if func[i].isnumeric() and func[i+1] not in ['+','-','*','/'] and not(func[i+1].isnumeric()) and not(func[i+1]=='.'):
+        if func[i].isnumeric() and func[i+1] not in ['+','-','*','/'] and not(func[i+1].isnumeric()) and not(func[i+1]=='.') and func[i+1]!=')':
             func=func[:i+1]+'*'+func[i+1:]
     i+=1
 print("coverted form:",func)
