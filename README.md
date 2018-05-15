@@ -20,7 +20,7 @@ that is ..
 2)  " 2 + e " is as same as " 2 + 2.71828 " 
 
 2D graph of sin(x)/x ,-sin(x)/x ,2*sin(x)/x,-2*sin(x)/x
-![2D_graph_sample](https://drive.google.com/open?id=1Wj6RQ9ncWoWKpGL7SVDhAr3HYrQJMyTF)
+![2D_graph_sample](https://raw.githubusercontent.com/Chidhambararajan/Maths-Grapher-tool/master/2D.png)
 
 3D graph of sin(x^2+y^2)/(sqrt(x^2+y^2)
 ![3D_graph_sample](https://drive.google.com/open?id=1Wj6RQ9ncWoWKpGL7SVDhAr3HYrQJMyTF)
