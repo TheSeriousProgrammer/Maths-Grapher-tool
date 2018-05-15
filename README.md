@@ -23,4 +23,4 @@ that is ..
 ![2D_graph_sample](https://raw.githubusercontent.com/Chidhambararajan/Maths-Grapher-tool/master/2D.png)
 
 3D graph of sin(x^2+y^2)/(sqrt(x^2+y^2)
-![3D_graph_sample](https://drive.google.com/open?id=1Wj6RQ9ncWoWKpGL7SVDhAr3HYrQJMyTF)
+![3D_graph_sample](https://raw.githubusercontent.com/Chidhambararajan/Maths-Grapher-tool/master/3D.png)
