@@ -18,3 +18,9 @@ both the codes support usage of 'e'
 that is ..
 1)  "2e11" is as same as '2 x (10^11)'
 2)  " 2 + e " is as same as " 2 + 2.71828 " 
+
+2D graph of sin(x)/x ,-sin(x)/x ,2*sin(x)/x,-2*sin(x)/x
+![2D_graph_sample](https://drive.google.com/open?id=1Wj6RQ9ncWoWKpGL7SVDhAr3HYrQJMyTF)
+
+3D graph of sin(x^2+y^2)/(sqrt(x^2+y^2)
+![3D_graph_sample](https://drive.google.com/open?id=1Wj6RQ9ncWoWKpGL7SVDhAr3HYrQJMyTF)
